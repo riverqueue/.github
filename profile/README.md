@@ -13,7 +13,7 @@ commit. See [transactional enqueueing] for more background on this philosophy.
 
 You might be interested in:
 
-* [riverqueue.com](https://riverqueue.com), the main landing page for the product.
+* [riverqueue.com](https://riverqueue.com), the central landing page for the product.
 * The [main River repository](https://github.com/riverqueue/river), containing the Go project that directs how jobs are worked.
 * [River's documentation](https://riverqueue.com/docs), containing detailed usage information and examples.
 * [River UI](https://github.com/riverqueue/riverui) (and [live demo](https://ui.riverqueue.com)), a self-hosted graphical interface for queue management.
