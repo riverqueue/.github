@@ -1,3 +1,3 @@
 # River organization profile
 
-`.github` is a [magic repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-member-only-organization-profile-readme) for GitHub which puts a README on an organization's landing page. This one provides the one for the [River organization](https://github.com/riverqueue). See [`profile/README.md`](../profile/README.md).
+`.github` is a [magic repository](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme) for GitHub which puts a README on an organization's landing page. This one provides the one for the [River organization](https://github.com/riverqueue). See [`profile/README.md`](../profile/README.md).
